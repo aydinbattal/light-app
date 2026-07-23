@@ -21,9 +21,9 @@
 
 Below is a preview of Light across key screens:
 
-| Today's Timings | Prayer Notifications | Calculation Settings |
+| Today's Timings | Prayer Reminders | Qibla |
 |:---:|:---:|:---:|
-| ![Today Screen Placeholder](./Gemini_Generated_Image_aok5zhaok5zhaok5.png) | ![Notification Settings Placeholder](./Gemini_Generated_Image_at40mhat40mhat40.png) | ![Method Selection Placeholder](./Gemini_Generated_Image_newtlynewtlynewt.png) |
+| <img src="images/iphone/iphone-screen-dashboard.png" width="300"> | <img src="images/iphone/iphone-screen-reminders-editing.png" width="300"> | <img src="images/iphone/iphone-screen-qibla.png" width="300"> |
 
 For more screenshots and interface breakdown, visit our [Screenshots Showcase](screenshots.md).
 
