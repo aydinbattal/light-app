@@ -2,7 +2,7 @@
 
 **Light** is a modern, accurate, and privacy-focused Islamic prayer time & reminder app for iOS and Android. Built with a sleek dark aesthetic, precise astronomical calculation engines, offline capabilities, and customizable sound notifications (Adhan, Chimes, Beeps).
 
-[![App Store](https://img.shields.io/badge/App_Store-Download_Now-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](#) [![Google Play Store](https://img.shields.io/badge/Google_Play-Get_It_On_Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](#)
+[![App Store](https://img.shields.io/badge/App_Store-Download_Now-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/light-prayer-times-reminders/id6777639656) [![Google Play Store](https://img.shields.io/badge/Google_Play-Get_It_On_Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.light_prayer_reminder)
 
 ---
 
