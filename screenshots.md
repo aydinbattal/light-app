@@ -17,7 +17,7 @@ The primary screen gives immediate visibility to today's prayer timings, active 
 Tailor sound alerts and notification preferences for each prayer individually.
 
 <img src="images/iphone/iphone-screen-reminders-editing.png" width="300">
-<img src="images/iphone/iphone-screen-reminders-custom-scroller.png" width="300">
+<img src="images/iphone/iphone-screen-reminders-custom.png" width="300">
 
 ---
 
@@ -30,7 +30,14 @@ Tailor sound alerts and notification preferences for each prayer individually.
 ## Calendar
 
 <img src="images/iphone/iphone-screen-calendar-islamic-day.png" width="300">
-<img src="images/iphone/iphone-screen-calendar-normal-day-upcoming-dates.png" width="300">
+<img src="images/iphone/iphone-screen-calendar.png" width="300">
+
+---
+
+## Settings
+
+<img src="images/iphone/iphone-screen-settings-calculation-method.png" width="300">
+<img src="images/iphone/iphone-screen-settings.png" width="300">
 
 ---
 
